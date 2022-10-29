@@ -104,7 +104,7 @@
             <div class = "container">
                 <div class="flex">
                     <div class="user signinBx">
-                        <div class="imgBx"> <img src="./images/login/login1.jpg" width="375px"> </div>
+                        <div class="imgBx"> <img src="./images/login/login_1.jpg" width="375px"> </div>
                         <div class="formBx">
                             <form action="" method="post">
                                 <h2>Sign in</h2>
@@ -133,7 +133,7 @@
                             <p class="signup">Already have an account? <a href = "#" onclick="toggleForm();">Sign in.</a> </p>
                         </form>
                     </div>
-                    <div class="imgBx"> <img src="./images/login/login2.jpg" width="375px"> </div>
+                    <div class="imgBx"> <img src="./images/login/login_2.jpg" width="375px"> </div>
                 </div>
             </div>
         </section>

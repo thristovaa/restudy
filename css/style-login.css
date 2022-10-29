@@ -103,7 +103,7 @@ section .container .user .formBx form input
 section .container .user .formBx form input[type="submit"]
 {
     max-width: 100px;
-    background: #0ad6b4;
+    background: #FFC300;
     color: #fff;
     cursor: pointer;
     font-size: 14px;
@@ -127,7 +127,7 @@ section .container .user .formBx form .signup a
 {
     font-weight: 600;
     text-decoration: none;
-    color: #b98ea7;
+    color: #001d3d;
 }
 
 section .container .signupBx
