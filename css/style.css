@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans Caption', sans-serif;
+}
+
+body{
+    background-color: #FFD60A;
+}
+
+.navbar{
+    width: 100%;
+}
+
+.login-button{
+    background-color: #FFD60A !important; 
+    color: #010028; 
+    font-weight: 700; 
+    border: 0px; 
+    border-radius: 30px; 
+    padding: 10px 20px;
+    margin-left: 100px;
+}
