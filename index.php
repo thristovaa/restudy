@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="./css/bootstrap.min.css">
         <link rel="stylesheet" href="./css/style.css">
-        <title>Document</title>
+        <title>Home</title>
     </head>
     <body>
         <nav class="navbar navbar-inverse full-nav" style="background-color: white">
@@ -24,8 +24,71 @@
                     </form>
                 </ul>
             </div>
-            </div>
+        </div>
         </nav>
+        <div class = "rectangle1">
+</div>
+        <p class = "z">For You</p>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card">
+      <img src="./images/random/post1.png" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Учебник 1</h5>
+        <p class="card-text">Учебник по Биология за 10 клас, добро състояние.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="./images/random/post1.png" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Учебник 2</h5>
+        <p class="card-text">Учебник по Математика ПП за 11 клас, добро състояние.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="./images/random/post1.png" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Учебник 3</h5>
+        <p class="card-text">Учебник по Литература за 7 клас, добро състояние.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+ <p class = "z">Recent</p>
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+  <div class="col">
+    <div class="card">
+      <img src="./images/random/post1.png" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Учебник 1</h5>
+        <p class="card-text">Учебник по Биология за 10 клас, добро състояние.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="./images/random/post1.png" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Учебник 2</h5>
+        <p class="card-text">Учебник по Математика ПП за 11 клас, добро състояние.</p>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card">
+      <img src="./images/random/post1.png" class="card-img-top">
+      <div class="card-body">
+        <h5 class="card-title">Учебник 3</h5>
+        <p class="card-text">Учебник по Литература за 7 клас, добро състояние.</p>
+      </div>
+    </div>
+  </div>
+</div>
         <script src="./js/bootstrap.bundle.min.js"></script>
     </body>
 </html>
